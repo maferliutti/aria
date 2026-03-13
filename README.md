@@ -115,7 +115,7 @@ Esse desenho reduz dependência de respostas genéricas e torna a análise mais 
 - a integração com IA é opcional;
 - não publique tokens reais no GitHub;
 - se necessário, substitua chaves por placeholders antes de subir o projeto;
-- no arquivo "INDEX.html" está presente o código completo
+- no arquivo "INDEX.html" está presente o código completo.
 
 ## Sobre este projeto
 
