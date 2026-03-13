@@ -81,13 +81,16 @@ Esse desenho reduz dependência de respostas genéricas e torna a análise mais 
 
 ## Estrutura do repositório
 
-```text
-aria-risk-intelligence-advisor/
-├── index.html
-├── README.md
-├── .gitignore
-└── LICENSE
-```
+├── index.html          # Estrutura HTML
+├── styles.css          # Toda a estilização
+├── state.js            # Estado global e constantes
+├── math.js             # Funções matemáticas/estatísticas
+├── data.js             # Busca de dados (BCB, brapi, fallback)
+├── analysis.js         # Cálculo das métricas do portfólio
+├── charts.js           # Renderização de gráficos
+├── ui.js               # Interface do usuário
+├── chat.js             # Lógica do chat e integração IA
+└── app.js              # Inicialização e fluxo principal
 
 ## Como executar
 
@@ -101,7 +104,8 @@ aria-risk-intelligence-advisor/
 - a análise quantitativa funciona mesmo sem IA;
 - a integração com IA é opcional;
 - não publique tokens reais no GitHub;
-- se necessário, substitua chaves por placeholders antes de subir o projeto.
+- se necessário, substitua chaves por placeholders antes de subir o projeto;
+- no arquivo "INDEX.html" está presente o código completo
 
 ## Sobre este projeto
 
