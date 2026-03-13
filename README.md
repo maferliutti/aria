@@ -1,4 +1,4 @@
-# ARIA — Assistente de Análise Quantitativa de Portfólio
+# ARIA — Assistente de Análise Quantitativa de Portfólio (Projeto DIO Bootcamp - Bradesco | GenAI & Dados)
 
 A **ARIA** é uma aplicação web de análise de portfólio com **núcleo quantitativo** e **camada opcional de IA** para interpretação dos resultados.
 
@@ -102,14 +102,6 @@ aria-risk-intelligence-advisor/
 - a integração com IA é opcional;
 - não publique tokens reais no GitHub;
 - se necessário, substitua chaves por placeholders antes de subir o projeto.
-
-## Possíveis melhorias futuras
-
-- separar frontend e backend;
-- melhorar o tratamento de APIs externas;
-- adicionar autenticação e armazenamento de preferências;
-- publicar uma demo online;
-- criar versão modularizada do código.
 
 ## Sobre este projeto
 
